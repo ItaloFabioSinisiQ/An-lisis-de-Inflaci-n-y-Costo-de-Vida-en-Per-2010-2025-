@@ -1,0 +1,21 @@
+Ciudad,Año,Mes,Alimentación,Transporte,Vivienda,Educación,Salud
+Nacional,2010,1,65.0,60.5,62.3,55.8,58.2
+Nacional,2010,12,68.2,62.1,64.0,57.0,59.3
+Lima Metropolitana,2010,1,66.8,61.0,63.0,56.0,58.5
+Lima Metropolitana,2010,12,69.5,62.8,64.7,57.2,59.8
+Nacional,2015,1,75.4,68.7,70.1,64.3,66.2
+Nacional,2015,12,78.0,71.0,72.5,66.0,68.0
+Lima Metropolitana,2015,1,77.1,69.5,71.0,64.8,66.7
+Lima Metropolitana,2015,12,79.8,71.8,73.4,66.4,68.3
+Nacional,2020,1,80.2,73.5,74.9,69.0,70.5
+Nacional,2020,12,82.3,75.8,77.2,70.8,72.1
+Lima Metropolitana,2020,1,82.0,74.3,76.0,69.7,70.9
+Lima Metropolitana,2020,12,84.1,76.5,77.8,71.5,72.7
+Nacional,2023,1,95.0,90.2,91.5,88.0,89.3
+Nacional,2023,12,98.3,93.4,94.8,90.6,91.8
+Lima Metropolitana,2023,1,96.8,91.0,92.4,88.7,90.0
+Lima Metropolitana,2023,12,100.0,95.5,97.0,92.1,93.3
+Cusco,2010,1,, , , , 
+Cusco,2023,12,, , , , 
+Arequipa,2010,1,, , , , 
+Arequipa,2023,12,, , , , 

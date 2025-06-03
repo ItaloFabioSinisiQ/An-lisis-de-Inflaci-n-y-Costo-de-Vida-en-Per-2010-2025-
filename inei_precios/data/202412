@@ -1,0 +1,53 @@
+Anio,Mes,Tipo_Dato,Item_Nombre,Item_Detalle,Valor_Principal_Porcentual,Valor_Secundario_Porcentual,Fuente_Archivo
+2024,Junio,Variación Mensual,Índice de Precios al Consumidor,Nacional,0.07,,boletin_precios_jun24.pdf
+2024,Junio,Variación Acumulada,Índice de Precios al Consumidor,Nacional,1.30,,boletin_precios_jun24.pdf
+2024,Junio,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,0.12,,boletin_precios_jun24.pdf
+2024,Junio,Variación Acumulada,Índice de Precios al Consumidor,Lima Metropolitana,1.57,,boletin_precios_jun24.pdf
+2024,Junio,Variación Anual,Índice de Precios al Consumidor,Nacional,1.89,,boletin_precios_jun24.pdf
+2024,Junio,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,2.29,,boletin_precios_jun24.pdf
+2024,Junio,Variación Mensual,Bienes y Servicios Diversos,Lima Metropolitana,0.27,,boletin_precios_jun24.pdf
+2024,Junio,Variación Mensual,Restaurantes y Hoteles,Lima Metropolitana,0.20,,boletin_precios_jun24.pdf
+2024,Junio,Variación Mensual,Transporte,Lima Metropolitana,0.18,,boletin_precios_jun24.pdf
+2024,Junio,Variación Mensual,Alimentos y Bebidas no Alcohólicas,Lima Metropolitana,0.11,,boletin_precios_jun24.pdf
+2024,Agosto,Variación Mensual,Índice de Precios al Consumidor,Nacional,0.31,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Acumulada,Índice de Precios al Consumidor,Nacional,1.85,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,0.28,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Acumulada,Índice de Precios al Consumidor,Lima Metropolitana,2.10,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Anual,Índice de Precios al Consumidor,Nacional,1.68,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,2.03,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Mensual,Alimentos y Bebidas No Alcohólicas,Lima Metropolitana,0.93,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Mensual,Restaurantes y Hoteles,Lima Metropolitana,0.22,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Agosto,Variación Mensual,Alojamiento, Agua, Electricidad, Gas y Otros Combustibles,Lima Metropolitana,0.17,,09-informe-tecnico-variacion-de-los-indicadores-de-precios-agosto-2024.pdf
+2024,Setiembre,Variación Mensual,Índice de Precios al Consumidor,Nacional,-0.12,,informe_precios_set24.pdf
+2024,Setiembre,Variación Acumulada,Índice de Precios al Consumidor,Nacional,1.72,,informe_precios_set24.pdf
+2024,Setiembre,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,-0.24,,informe_precios_set24.pdf
+2024,Setiembre,Variación Acumulada,Índice de Precios al Consumidor,Lima Metropolitana,1.86,,informe_precios_set24.pdf
+2024,Setiembre,Variación Anual,Índice de Precios al Consumidor,Nacional,1.49,,informe_precios_set24.pdf
+2024,Setiembre,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,1.78,,informe_precios_set24.pdf
+2024,Setiembre,Variación Mensual,Alimentos y Bebidas No Alcohólicas,Lima Metropolitana,-0.97,-0.29,informe_precios_set24.pdf
+2024,Setiembre,Variación Mensual,Transporte,Lima Metropolitana,-0.40,-0.29,informe_precios_set24.pdf
+2024,Octubre,Variación Mensual,Índice de Precios al Consumidor,Nacional,-0.04,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Acumulada,Índice de Precios al Consumidor,Nacional,1.68,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,-0.09,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Acumulada,Índice de Precios al Consumidor,Lima Metropolitana,1.76,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Anual,Índice de Precios al Consumidor,Nacional,1.73,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,2.01,,boletin_precios_oct24.pdf
+2024,Octubre,Variación Mensual,Alimentos y Bebidas No Alcohólicas,Lima Metropolitana,-0.64,-0.16,boletin_precios_oct24.pdf
+2024,Octubre,Variación Mensual,Bienes y Servicios Diversos,Lima Metropolitana,0.18,,boletin_precios_oct24.pdf
+2024,Noviembre,Variación Mensual,Índice de Precios al Consumidor,Nacional,0.07,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Acumulada,Índice de Precios al Consumidor,Nacional,1.75,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,0.09,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Acumulada,Índice de Precios al Consumidor,Lima Metropolitana,1.86,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Anual,Índice de Precios al Consumidor,Nacional,2.06,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,2.27,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Mensual,Alojamiento, Agua, Electricidad, Gas y Otros Combustibles,Lima Metropolitana,0.47,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Mensual,Restaurantes y Hoteles,Lima Metropolitana,0.11,,boletin-precios-lm-nov2024.pdf
+2024,Noviembre,Variación Mensual,Bienes y Servicios Diversos,Lima Metropolitana,0.26,,boletin-precios-lm-nov2024.pdf
+2024,Diciembre,Variación Mensual,Índice de Precios al Consumidor,Nacional,0.14,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Anual,Índice de Precios al Consumidor,Nacional,1.90,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Mensual,Índice de Precios al Consumidor,Lima Metropolitana,0.11,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Anual,Índice de Precios al Consumidor,Lima Metropolitana,1.97,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Mensual,Transporte,Lima Metropolitana,1.38,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Mensual,Recreación y Cultura,Lima Metropolitana,0.48,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Mensual,Restaurantes y Hoteles,Lima Metropolitana,0.19,,boletin_precios_dic24.pdf
+2024,Diciembre,Variación Mensual,Alimentos y Bebidas No Alcohólicas,Lima Metropolitana,-0.60,,boletin_precios_dic24.pdf
